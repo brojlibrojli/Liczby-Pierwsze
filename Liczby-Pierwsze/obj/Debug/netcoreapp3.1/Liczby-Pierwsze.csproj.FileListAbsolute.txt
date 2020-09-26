@@ -1,0 +1,13 @@
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\bin\Debug\netcoreapp3.1\Liczby-Pierwsze.exe
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\bin\Debug\netcoreapp3.1\Liczby-Pierwsze.deps.json
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\bin\Debug\netcoreapp3.1\Liczby-Pierwsze.runtimeconfig.json
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\bin\Debug\netcoreapp3.1\Liczby-Pierwsze.runtimeconfig.dev.json
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\bin\Debug\netcoreapp3.1\Liczby-Pierwsze.dll
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\bin\Debug\netcoreapp3.1\Liczby-Pierwsze.pdb
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\obj\Debug\netcoreapp3.1\Liczby-Pierwsze.csprojAssemblyReference.cache
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\obj\Debug\netcoreapp3.1\Liczby-Pierwsze.AssemblyInfoInputs.cache
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\obj\Debug\netcoreapp3.1\Liczby-Pierwsze.AssemblyInfo.cs
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\obj\Debug\netcoreapp3.1\Liczby-Pierwsze.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\obj\Debug\netcoreapp3.1\Liczby-Pierwsze.dll
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\obj\Debug\netcoreapp3.1\Liczby-Pierwsze.pdb
+C:\Users\Radek\source\repos\Liczby-Pierwsze\Liczby-Pierwsze\obj\Debug\netcoreapp3.1\Liczby-Pierwsze.genruntimeconfig.cache
